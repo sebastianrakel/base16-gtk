@@ -1,0 +1,3 @@
+[submodule "base16"]
+	path = base16
+	url = https://github.com/tinted-theming/base16-gtk-flatcolor.git
